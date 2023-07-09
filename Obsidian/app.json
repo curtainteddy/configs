@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ],
+  "tabSize": 4,
+  "trashOption": "system",
+  "attachmentFolderPath": "@Assets/@Attachments",
+  "newFileLocation": "current"
+}

@@ -1,0 +1,347 @@
+{
+  "main": {
+    "id": "4917aefbf4e888d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2946e475b5600ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7afa01d7814034b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@DailyNotes/Jul 9, 2023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8228394125b10818",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "@Assets/@Excalidraw/Drawing 2023-07-09 17.21.57.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7d7a4a236e64ba7d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "@Assets/@Excalidraw/Drawing 2023-07-09 17.23.32.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9642b5f1ba2f2b98",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "@Assets/@Excalidraw/Drawing 2023-07-09 17.23.32_0.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2982290a7c28a8fb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "@Assets/@Excalidraw/Drawing 2023-07-09 17.23.33.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8a8a6a41f7cd2066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Assets/@Excalidraw/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67103830125af130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@DailyNotes/Jul 9, 2023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b29c0312461b2b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@DailyNotes/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1eea02c5c2c8b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@DailyNotes/Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd0ad0bd50f28275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Garage/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d8719dd0d998cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Garage/Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ef74fc87fe87b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Garage/Untitled 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "391fc9a352bc1a1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db21ce70fc0dd65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e703bc60d70947b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bd49d61f0547d4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test Garage/Untitled 2.md"
+              }
+            }
+          },
+          {
+            "id": "d86b902e41404b15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75e9389be109fe11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "24fce2ecaa9a3e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "25151ac41e8c51b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a06841dde0ffc85f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Test Garage/Untitled 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45a63babf94db25f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Test Garage/Untitled 2.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d448531e1e6acc75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "016680d3f6c55f6a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f01617166d80341",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4ef74fc87fe87b98",
+  "lastOpenFiles": [
+    "@Assets/@Attachments/Pasted image 20230709172414.png",
+    "@Assets/@Attachments/Pasted image 20230709172413.png",
+    "Test Garage/Untitled 1.md",
+    "Test Garage/Untitled 2.md",
+    "Test Garage/Untitled.md",
+    "@DailyNotes/Untitled 2.md",
+    "@DailyNotes/Untitled 1.md",
+    "@DailyNotes/Untitled.md",
+    "@DailyNotes/Jul 9, 2023.md",
+    "@Assets/@Excalidraw/Untitled 1.md",
+    "@Assets/@Excalidraw/Untitled.md",
+    "@Assets/@Excalidraw/Drawing 2023-07-09 17.23.33.excalidraw.md",
+    "@Assets/@Excalidraw/Drawing 2023-07-09 17.23.32_0.excalidraw.md",
+    "@Assets/@Excalidraw/Drawing 2023-07-09 17.23.32.excalidraw.md",
+    "@Assets/@Excalidraw/Drawing 2023-07-09 17.21.57.excalidraw.md",
+    "@Assets/@Attachments/Pasted image 20230709172144.png",
+    "Untitled.md",
+    "@DailyNotes/www.hi.co.md",
+    "@DailyNotes/hi.co.md",
+    "@DailyNotes/Tets.md",
+    "@Assets/@Excalidraw/Drawing 2023-07-09 15.41.27.excalidraw.md",
+    "@Assets/@Attachments/Pasted image 20230709154106.png",
+    "@Assets/Untitled Kanban.md",
+    "@Assets/@Excalidraw/sd.md",
+    "@Assets/@Excalidraw/asd.md",
+    "@Excalidraw/Drawing 2023-07-09 13.49.02.excalidraw.md",
+    "@Excalidraw",
+    "@Excalidraw/Drawing 2023-07-09 13.48.23.excalidraw.md",
+    "@DailyNotes/@attachments/Pasted image 20230709134724.png",
+    "@DailyNotes/@attachments/Pasted image 20230709134744.png",
+    "@DailyNotes/@attachments/Pasted image 20230709134742.png",
+    "@DailyNotes/@attachments",
+    "@Assets",
+    "sd.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "@Excalidraw/sdf.md",
+    "@attachments/Pasted image 20230709120457.png",
+    "@Assets/@Excalidraw",
+    "@Assets/@Attachments",
+    "Test Garage",
+    "Excalidraw",
+    "@DailyNotes",
+    "test",
+    "Daily Notes"
+  ]
+}
